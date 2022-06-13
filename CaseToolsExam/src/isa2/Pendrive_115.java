@@ -7,5 +7,10 @@ public class Pendrive_115 {
 	{
 		this.size = size;
 	}
+	
+	int get_size()
+	{
+		return size;
+	}
 
 }
